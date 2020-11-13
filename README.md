@@ -1,6 +1,6 @@
 # OdataToEntity #
 [Wiki](https://github.com/voronov-maxim/OdataToEntity/wiki)  
-[![Travis](https://travis-ci.org/voronov-maxim/OdataToEntity.svg?branch=master)](https://travis-ci.org/voronov-maxim/OdataToEntity?branch=master) 
+[![Travis](https://travis-ci.org/voronov-maxim/core3.svg?branch=master)](https://travis-ci.org/voronov-maxim/core3?branch=master) 
 
 OData .net core
 
